@@ -1,0 +1,29 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.portrait{
+    width: 300px;
+    background-color: #ACAFA7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2%;
+    
+}
+
+h4:first-letter{
+    font-size: 30px;
+}
+
+img {
+    border-radius: 40%;
+}
+
+p{ 
+    font-weight:lighter;
+}
+
